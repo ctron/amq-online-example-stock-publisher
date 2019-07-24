@@ -1,0 +1,10 @@
+stock-publisher
+
+# Goland
+
+.idea/
+
+# Eclipse
+
+.project
+.settings/
